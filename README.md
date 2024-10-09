@@ -89,3 +89,5 @@
 #### [Milestone](https://github.com/users/hyunn12/projects/3)
 
 #### [Sequence Diagram](./docs/SequenceDiagram.md)
+
+#### [ERD](./docs/ERD.md)
