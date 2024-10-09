@@ -131,7 +131,7 @@ sequenceDiagram
     Service->>DB: 잔액 조회
     DB-->>Service: 잔액 정보 반환
     alt 잔액이 부족한 경우 
-        Service-->User: Exception 반환
+        Service-->>User: Exception 반환
     else 잔액이 충분한 경우
         Service->>DB: 잔액 상태 변경
         DB-->>Service: 잔액 상태 변경 결과 반환
