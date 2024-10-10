@@ -29,7 +29,7 @@ spring:
 # swagger-ui
 springdoc:
   swagger-ui:
-    path: /swagger-ui/index.html
+    path: /index.html
     groups-order: DESC
     tags-sorter: alpha
     operations-sorter: method
