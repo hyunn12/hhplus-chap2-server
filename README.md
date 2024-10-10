@@ -91,3 +91,5 @@
 #### [Sequence Diagram](./docs/SequenceDiagram.md)
 
 #### [ERD](./docs/ERD.md)
+
+#### [API 명세](./docs/API-Spec.md)
